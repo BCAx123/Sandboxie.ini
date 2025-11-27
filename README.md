@@ -3,7 +3,7 @@ Doaçoes
 
 Ethereum 0xf689fF9C05A69216cFAeF896d231813a401267A1   \
 Litcoin ltc1q6yvxxdqqn2mwhvlk8ktm0vftgdhr3hd0f0mxya  \
-PIX 044322ed-9946-4c84-9f9c-beaf7ac8e303  \
+PIX 044322ed-9946-4c84-9f9c-beaf7ac8e303
 
 Versão usada
 
