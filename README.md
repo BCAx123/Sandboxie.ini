@@ -1,13 +1,12 @@
-<h1>uma solução ao malware presente na bios / drivers usado para manipular as urnas e cometer outros crimes </h1> \
+<h1>uma solução ao malware presente na bios / drivers usado para manipular as urnas e cometer outros crimes </h1>
 
 
 <h1>Doaçoes</h1>
-Ethereum 0xf689fF9C05A69216cFAeF896d231813a401267A1   \
+<h3>Ethereum 0xf689fF9C05A69216cFAeF896d231813a401267A1   \
 Litcoin ltc1q6yvxxdqqn2mwhvlk8ktm0vftgdhr3hd0f0mxya  \
 PIX 044322ed-9946-4c84-9f9c-beaf7ac8e303
-</n>
+</h3>
 Versão usada
-
 Sandboxie-Classic Downloads
 Sandboxie-Classic-x64-v5.71.3.exe (x64 Windows 7, 10, 11)
 https://sandboxie-plus.com/downloads/
