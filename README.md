@@ -14,7 +14,9 @@ colocar o arquivo de configuração no diretorio
 C:\Windows\System32 antes de iniciar a instalação 
 
 Note: On my social media, I have denounced everything the State is covering up and doing to me and my family, along with the sect. They are cannibalistic terrorists; the crimes they commit are kidnapping, human trafficking, pedophilia, rape, and electoral fraud. Note: On my https://github.com/XXXBCAXX/Sandboxie.ini, I have a good alternative to defend myself against the backdoor that the FBI uses to spy on the population and manipulate elections in Brazil and other countries through the infamous electronic voting machines.  \
-[https://odysee.com/](https://odysee.com/@BCA410801:1)  \
+
+
+https://odysee.com/@BCA410801:1  \
 https://www.xvideos.com/profiles/jbca410801  \
 https://vimeo.com/manage/videos/1133610219  \
 https://vimeo.com/manage/videos/1133613213  \
