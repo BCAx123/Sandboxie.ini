@@ -1,7 +1,6 @@
 <h1>uma solução ao malware presente na bios / drivers usado para manipular as urnas e cometer outros crimes </h1>
 o app https://www.startallback.com/ e https://sourceforge.net/projects/processhacker/files/processhacker2/processhacker-2.39-setup.exe/download
-são recomendados ambos devem ser usados com a opção for all users durante a instalação para subistituir o padrão windows pois tanto o explorer quando o gerenciador de tarefas são acessados e manipulados por atacantes 
-
+são recomendados ambos devem ser usados com a opção for all users durante a instalação para substituir o padrão windows pois tanto o explorer quando o gerenciador de tarefas são acessados e manipulados por atacantes bibliotecas opengl e dotnet framework também contam com o mesmo acesso presente na bios
 
 <h1>Doaçoes</h1>
 <h3>Ethereum 0xfe047a8e0f5B06F9E9ce9748AaC67f16c5246312</h3>  
