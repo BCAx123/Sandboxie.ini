@@ -1,4 +1,6 @@
 <h1>uma solução ao malware presente na bios / drivers usado para manipular as urnas e cometer outros crimes </h1>
+o app https://www.startallback.com/ e https://sourceforge.net/projects/processhacker/files/processhacker2/processhacker-2.39-setup.exe/download
+são recomendados ambos devem ser usados com a opção for all users durante a instalação para subistituir o padrão windows pois tanto o explorer quando o gerenciador de tarefas são acessados e manipulados por atacantes 
 
 
 <h1>Doaçoes</h1>
