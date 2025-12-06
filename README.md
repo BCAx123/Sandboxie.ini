@@ -1,7 +1,7 @@
 <h1>uma solução ao malware presente na bios / drivers usado para manipular as urnas e cometer outros crimes </h1>
 o app https://www.startallback.com/ e https://sourceforge.net/projects/processhacker/files/processhacker2/processhacker-2.39-setup.exe/download
 são recomendados ambos devem ser usados com a opção for all users durante a instalação para substituir o padrão windows pois tanto o explorer quando o gerenciador de tarefas são acessados e manipulados por atacantes bibliotecas opengl e dotnet framework também contam com o mesmo acesso presente na bios https://github.com/BCAx123/Sandboxie.ini/blob/main/Sandboxie.ini%20configura%C3%A7oes%20para%20usuarios%20avan%C3%A7ados.7z  navegadores como firefox opera e outros devem ser instalados e mantidos em container encriptados usando o  https://veracrypt.io/en/Downloads.html e mantidos em execução dentro da caixa de areia, pois também são usados como acesso remoto 
-
+alguns nomes por trás dos cyber ataques são mateus lima viana robson pelé mãozinha marcelo e outros não tenho vinculos contatos nem amizade com os mesmo 
 <h1>Doaçoes</h1>
 <h3>Ethereum 0xfe047a8e0f5B06F9E9ce9748AaC67f16c5246312</h3>  
 <h3>Litcoin LPsT2mjw4udjk89rHLLaXujek2eP71Quhr</h3>  
