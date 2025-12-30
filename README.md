@@ -4,8 +4,7 @@ são recomendados ambos devem ser usados com a opção for all users durante a i
 https://www.filepuma.com/download/sandboxie_classic_64bit_5.70.4-44033/
 alguns nomes por trás dos cyber ataques são mateus lima viana robson pelé mãozinha marcelo e outros não tenho vinculos contatos nem amizade com os mesmo 
 <h1>Doaçoes</h1>
-<h3>Ethereum 0xfe047a8e0f5B06F9E9ce9748AaC67f16c5246312</h3>  
-<h3>Litcoin LPsT2mjw4udjk89rHLLaXujek2eP71Quhr</h3>  
+ 
 <h3>PIX 044322ed-9946-4c84-9f9c-beaf7ac8e303</h3>  
 
 Versão usada
